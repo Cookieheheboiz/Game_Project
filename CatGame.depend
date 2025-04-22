@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1745323681 source:d:\catgame\main.cpp
+	"BasicPart.h"
+	"Cat.h"
+	"Heart.h"
+	"Impact.h"
+	"Obstacle.h"
+	"Button.h"
+	"TextureManager.h"
+	"Donut.h"
+	"Logic_In_Game.h"
+
+1745338221 source:d:\catgame\src\donut.cpp
+	"Donut.h"
+
+1745305567 d:\catgame\src\donut.h
+	"TextureManager.h"
+
+1743043372 source:d:\catgame\src\basicpart.cpp
+	"BasicPart.h"
+
+1745331173 d:\catgame\src\basicpart.h
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	<fstream>
+	<sstream>
+
+1745156295 source:d:\catgame\src\texturemanager.cpp
+	"TextureManager.h"
+
+1743066955 d:\catgame\src\texturemanager.h
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+	"BasicPart.h"
+
+1745241060 source:d:\catgame\src\cat.cpp
+	"Cat.h"
+
+1745326614 d:\catgame\src\cat.h
+	"TextureManager.h"
+
+1743479622 source:d:\catgame\src\gameloop.cpp
+	"GameLoop.h"
+
+1743479622 d:\catgame\src\gameloop.h
+
+1743931231 source:d:\catgame\src\background.cpp
+
+1745333303 source:d:\catgame\src\impact.cpp
+	"Impact.h"
+
+1744046927 d:\catgame\src\impact.h
+	"BasicPart.h"
+	"Cat.h"
+	"Button.h"
+	"Obstacle.h"
+	"Logic_In_Game.h"
+
+1745333338 source:d:\catgame\src\logic_in_game.cpp
+	"Logic_In_Game.h"
+
+1744728744 d:\catgame\src\logic_in_game.h
+	"windows.h"
+	"BasicPart.h"
+	"Obstacle.h"
+	"Donut.h"
+	"Cat.h"
+	"Button.h"
+
+1743931381 d:\catgame\src\obstacle.h
+	"TextureManager.h"
+
+1743933042 d:\catgame\src\button.h
+	"TextureManager.h"
+
+1743931516 source:d:\catgame\src\obstacle.cpp
+	"Obstacle.h"
+
+1743935312 source:d:\catgame\src\button.cpp
+	"Button.h"
+
+1744728744 source:d:\catgame\src\heart.cpp
+
+1744728744 d:\catgame\src\heart.h
+
