@@ -29,8 +29,6 @@
 - Có thể bật tắt âm nhạc nền ingame
  
 - Kết hợp thêm một vài nút so với code mẫu
-Mức độ sử dụng AI:
-
  
 ##### Nguồn tham khảo:https://www.youtube.com/watch?v=JI5SYZMnfmE </br>
 ##### https://github.com/thai-nm/dino-in-zungle
